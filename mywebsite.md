@@ -7,5 +7,9 @@
 
 **I am a transfer student at UCSD pursuing a career in Computer Science**
 
+# I have experience with
+* Python
+* Java
+* C++
 
 
