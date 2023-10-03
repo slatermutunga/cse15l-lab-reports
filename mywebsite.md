@@ -1,7 +1,7 @@
 # Welcome To My Website
 ## My Name is Slater Mutunga
 
-[This is a link to the index file](/https://slatermutunga.github.io/cse15l-lab-reports/index)
+[This is a link to the index file](https://slatermutunga.github.io/cse15l-lab-reports/index)
 
 *I am currently in CSE 30, CSE 15L, and CSE 21*
 
