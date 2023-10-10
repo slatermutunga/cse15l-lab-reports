@@ -64,7 +64,7 @@ Here I used the home directory as the argument and got the contents of the home 
 No Error
 
 ## File As Argument
-![Image](ls file.png)  
+![Image](ls file .png)  
 
 Working Directory: /home/lecture1
 
