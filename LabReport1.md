@@ -1,16 +1,19 @@
 # Lab Report 1
 
-In this lab we learned how to create a workspace, use commands in the workspace, create a github page, and use Markdown. I will now analyze the cd, ls, and cat command to see how they work with different types of arguments.
+In this lab we learned how to create a workspace, use commands in the workspace, create a github page, and use Markdown. I will now analyze the cd, ls, and cat command to see how they work with different types of arguments.    
+
 
 # cd
 ## No Argument
 
-![Image](cd no argument.png)
+![Image](cd no argument.png)  
+
 Working directory: /home
 Here I used cd with no argument and nothing happened. That is because I didn't give it any directory to change to.
 No Error
 
-![Image](cd no argument2.png)
+![Image](cd no argument2.png)  
+
 Working directory: /home/lecture1
 When I do it here with no argument it does actually switch directorys. This is becasue I was originally in the lecture1 directory, and when you do cd with no argument it changes to the home.
 No Error
