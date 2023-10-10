@@ -8,7 +8,7 @@ In this lab we learned how to create a workspace, use commands in the workspace,
 
 ![Image](cd no argument.png)  
 
-Working directory: /home  
+Working directory: /home    
 
 Here I used cd with no argument and nothing happened. That is because I didn't give it any directory to change to.
 
