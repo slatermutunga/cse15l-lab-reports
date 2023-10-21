@@ -34,11 +34,19 @@ The only field that was permanently changed was the ArrayList strings which now 
 
 ![Image](PrivateKey.png)
 
-This is the ssh key that is on my computer under /Users/slatermutunga/.ssh/id_rsa.pub
+This is the ssh key that is on my computer under /Users/slatermutunga/.ssh/id_ed25519.pub
 
 ![Image](PublicKey.png)
 
 This is the ssh key that is in my ieng6 account under /.ssh/authorized_keys
+
+![Image](LogIn.png)
+
+This is me logging in without inputting a password.
+
+## What I learned in Weeks 2 and 3
+
+Since I am currently in CSE30 where we are using ssh, and scp, frequenetly that was not new information for me. However this was my first experience with hosting a server. It was really cool to me how easy it was and how you could change it through the URL. Knowing how to do the simple StringSearch has me confident to tackle other website types. I am starting to understand how websites work, and now look at thinks like URL's much differently.
 
 
 
