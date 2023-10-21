@@ -30,6 +30,17 @@ After running through the code it checks to see if /add-message is in the url, i
 
 The only field that was permanently changed was the ArrayList strings which now holds the strings, "Hello" and "How are you". The StringBuilder list was also created and changed, but it is recreated everytime a new message is added so it won't impact future usage. 
 
+## Path's To Keys
+
+![Image](PrivateKey.png)
+
+This is the ssh key that is on my computer under /Users/slatermutunga/.ssh/id_rsa.pub
+
+![Image](PublicKey.png)
+
+This is the ssh key that is in my ieng6 account under /.ssh/authorized_keys
+
+
 
 
 
