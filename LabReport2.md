@@ -32,11 +32,11 @@ The only field that was permanently changed was the ArrayList strings which now 
 
 ## Path's To Keys
 
-![Image](PrivateKey.png)
+![Image](PrivateKey1.png)
 
 This is the ssh key that is on my computer under /Users/slatermutunga/.ssh/id_ed25519.pub
 
-![Image](PublicKey.png)
+![Image](PublicKey1.png)
 
 This is the ssh key that is in my ieng6 account under /.ssh/authorized_keys
 
