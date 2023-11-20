@@ -3,13 +3,17 @@
 ## Step 4
 ADD Step 4 sc
 
-Keys Pressed: ssh<<space>>cs15lfa23es@ieng6.ucsd.edu<enter>
+```
+Keys Pressed: ssh<space>cs15lfa23es@ieng6.ucsd.edu<enter>
+```
 The first step is to sign into our ieng6 account and we do this by using ssh and our ieng6 email.
 
 ## Step 5
 
 Add sc
+```
 Keys Pressed: git<space>clone<space>git@github.com:slatermutunga/lab7.git<enter>
+```
 In this step we need to clone the lab7 repository to our ieng6 account, we do this by using the git clone command.
 We need to do this in order to work on the lab7 folder. We also used the ssh link from our github fork so we will be able to
 commit changes to it.
