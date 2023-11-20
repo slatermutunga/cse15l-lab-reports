@@ -3,7 +3,7 @@
 ## Step 4
 ADD Step 4 sc
 
-Keys Pressed: ssh<space>cs15lfa23es@ieng6.ucsd.edu<enter>
+Keys Pressed: ssh<<space>>cs15lfa23es@ieng6.ucsd.edu<enter>
 The first step is to sign into our ieng6 account and we do this by using ssh and our ieng6 email.
 
 ## Step 5
