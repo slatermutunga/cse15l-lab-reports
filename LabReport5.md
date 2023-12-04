@@ -10,7 +10,7 @@ that starts with x, in the initial index. Could I get some help, I'm guessing th
 is wrong with my merge function, as my grading script looks fully correct. Could I be messing up with
 the logic of my code or could it be something simpler?
 
-![Image](bugTest.png)
+![Image](bugtest.png)
 
 ## Ta Response
 
