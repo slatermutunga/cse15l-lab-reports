@@ -62,7 +62,7 @@ the tests. Thank you!
 
 #### Command To See Bug
 
-![Image](Test.png)
+![Image](bugtest.png)
 
 #### How To Fix Bug
 
