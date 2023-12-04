@@ -54,7 +54,7 @@ the tests. Thank you!
 
 #### ListExamplesTests.java
 
-![Image](Merge.png)
+![Image](Test.png)
 
 #### test.sh
 
